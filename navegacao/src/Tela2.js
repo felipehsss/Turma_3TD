@@ -8,7 +8,10 @@ export default function Tela2({ navigation }) {
 
   const imagens = [
     require("../assets/closeup-shot-burger-with-bacon-cheese-red-coffee-mug.jpg"),
+    require("../assets/closeup-shot-burger-with-bacon-cheese-red-coffee-mug.jpg"),
     require("../assets/front-view-burger-stand.jpg"),
+    require("../assets/front-view-burger-stand.jpg"),
+    require("../assets/still-life-delicious-american-hamburger.jpg"),
     require("../assets/still-life-delicious-american-hamburger.jpg"),
   ];
 
